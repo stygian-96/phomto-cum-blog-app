@@ -1,4 +1,4 @@
-# photo-blog-app
+# hello-world
 
 ## Project setup
 ```

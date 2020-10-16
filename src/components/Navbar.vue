@@ -11,8 +11,8 @@
 
     <b-collapse id="navbar-toggle-collapse" is-nav>
       <b-navbar-nav class="ml-auto">
-        <b-nav-item href="#">Add a Post</b-nav-item>
-        <b-nav-item href="#">View All Posts</b-nav-item>
+        <router-link to="/addPost">Add a Post</router-link>
+        <router-link to="/"> View All Posts</router-link>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
